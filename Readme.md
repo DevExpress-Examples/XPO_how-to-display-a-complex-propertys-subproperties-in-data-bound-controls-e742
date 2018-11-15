@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [MyObjects.cs](./CS/MyObjects.cs) (VB: [MyObjects.vb](./VB/MyObjects.vb))
+<!-- default file list end -->
 # How to display a complex property's subproperties in data bound controls
 
 
